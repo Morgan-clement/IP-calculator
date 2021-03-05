@@ -38,7 +38,7 @@ h1{
 }
 .results p{
   margin-right:10%;
-    margin-top:20%
+    margin-top:30%
 }
 .results span{
          float: left;
